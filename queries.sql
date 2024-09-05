@@ -78,7 +78,7 @@ where year, season, city;
 -- 3.Mention the total no of nations who participated in each olympics game?--
 select distinct count(Team) as no_of_nations from olympics_history;
 
---4.Which year saw the highest and lowest no of countries participating in olympics?
+
 
 
 
